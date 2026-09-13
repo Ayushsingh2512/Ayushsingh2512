@@ -61,4 +61,4 @@ Building production-minded backend and AI systems while strengthening my fundame
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ayushsingh2512/) • [GitHub](https://github.com/Ayushsingh2512)
+[LinkedIn](https://www.linkedin.com/in/ayushsingh2512/)
